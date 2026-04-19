@@ -11,7 +11,7 @@
     "href": "reflection.html#what-i-learned-in-this-module",
     "title": "Reflection",
     "section": "What I learned in this module",
-    "text": "What I learned in this module\nThis module asked me to build something I had never built before — a fully functioning personal portfolio website using version-controlled code, deployed live on the internet. That might sound straightforward, but the process involved far more problem-solving, patience, and iteration than I expected."
+    "text": "What I learned in this module\nThis module asked me to build something I had never built before - a fully functioning personal portfolio website using version-controlled code, deployed live on the internet. That might sound straightforward, but the process involved far more problem-solving, patience, and iteration than I expected."
   },
   {
     "objectID": "reflection.html#git-and-version-control",
@@ -25,14 +25,14 @@
     "href": "reflection.html#quarto-and-web-publishing",
     "title": "Reflection",
     "section": "Quarto and Web Publishing",
-    "text": "Quarto and Web Publishing\nI came into this module having built basic HTML pages but never having used a static site generator. Quarto’s approach — write in Markdown, configure in YAML, and let the tool handle rendering — took some getting used to.\nThe main challenge was learning that Quarto has opinions about structure. Using the built-in navbar, listing pages, and About templates felt constraining at first, but I got used to these conventions, as they exist for good reasons: they produce accessible, consistent, and well-structured output with much less manual work.\n\n\n\n\n\n\nTipUseful Quarto discovery\n\n\n\nThe listing feature for projects was far more powerful than I expected. Defining metadata in YAML frontmatter and letting Quarto generate a filterable, searchable grid automatically saved hours compared to maintaining a hand-coded HTML grid."
+    "text": "Quarto and Web Publishing\nI came into this module having built basic HTML pages but never having used a static site generator. Quarto’s approach - write in Markdown, configure in YAML, and let the tool handle rendering - took some getting used to.\nThe main challenge was learning that Quarto has opinions about structure. Using the built-in navbar, listing pages, and About templates felt constraining at first, but I got used to these conventions, as they exist for good reasons: they produce accessible, consistent, and well-structured output with much less manual work.\n\n\n\n\n\n\nTipUseful Quarto discovery\n\n\n\nThe listing feature for projects was far more powerful than I expected. Defining metadata in YAML frontmatter and letting Quarto generate a filterable, searchable grid automatically saved hours compared to maintaining a hand-coded HTML grid."
   },
   {
     "objectID": "reflection.html#design-and-accessibility",
     "href": "reflection.html#design-and-accessibility",
     "title": "Reflection",
     "section": "Design and Accessibility",
-    "text": "Design and Accessibility\nI initially underestimated how much design decisions matter. A technically correct page that is hard to read or navigate reflects poorly on the work it contains.\nChoosing a consistent colour palette (forest green and gold), setting up Sass variables so those colours were applied consistently, and making sure text had sufficient contrast all took longer than I expected — but the result felt more professional and more mine than a default template would have."
+    "text": "Design and Accessibility\nI initially underestimated how much design decisions matter. A technically correct page that is hard to read or navigate reflects poorly on the work it contains.\nChoosing a consistent colour palette (forest green and gold), setting up Sass variables so those colours were applied consistently, and making sure text had sufficient contrast all took longer than I expected - but the result felt more professional and more mine than a default template would have."
   },
   {
     "objectID": "reflection.html#mermaid-diagram-my-learning-journey",
@@ -74,28 +74,28 @@
     "href": "contact.html#lets-connect",
     "title": "Contact & References",
     "section": "Let’s Connect",
-    "text": "Let’s Connect\nWhether it’s a work opportunity, a collaboration, or just a conversation — I’d love to hear from you.\n✉ gleb.kurilenko6@gmail.com in LinkedIn 📄 Download CV"
+    "text": "Let’s Connect\nWhether it’s a work opportunity, a collaboration, or just a conversation - I’d love to hear from you.\n✉ gleb.kurilenko6@gmail.com in LinkedIn 📄 Download CV"
   },
   {
     "objectID": "contact.html#location",
     "href": "contact.html#location",
     "title": "Contact & References",
     "section": "Location",
-    "text": "Location\nBased in Dublin, Ireland — open to hybrid and in-person roles across the Greater Dublin Area, as well as remote positions.\n\n\n\n📍 Location\nDublin 6W, Ireland\n\n\n📞 Phone\n+353 87 781 5126\n\n\n✉ Email\ngleb.kurilenko6@gmail.com\n\n\n🔗 LinkedIn\ngleb-kurilenko-916222383"
+    "text": "Location\nBased in Dublin, Ireland - open to hybrid and in-person roles across the Greater Dublin Area, as well as remote positions.\n\n\n\n📍 Location\nDublin 6W, Ireland\n\n\n📞 Phone\n+353 87 781 5126\n\n\n✉ Email\ngleb.kurilenko6@gmail.com\n\n\n🔗 LinkedIn\ngleb-kurilenko-916222383"
   },
   {
     "objectID": "contact.html#references",
     "href": "contact.html#references",
     "title": "Contact & References",
     "section": "References",
-    "text": "References\nReferences are available upon request. Please contact me directly at gleb.kurilenko6@gmail.com and I will provide contact details for:\n\n\n\n\n\n\nNoteAcademic Reference\n\n\n\nA lecturer or module coordinator from Dublin City University or University College Dublin — available to speak to academic performance and analytical skills.\n\n\n\n\n\n\n\n\nNoteProfessional Reference\n\n\n\nA supervisor from my current security role — available to speak to reliability, professionalism, and workplace conduct."
+    "text": "References\nReferences are available upon request. Please contact me directly at gleb.kurilenko6@gmail.com and I will provide contact details for:\n\n\n\n\n\n\nNoteAcademic Reference\n\n\n\nA lecturer or module coordinator from Dublin City University or University College Dublin - available to speak to academic performance and analytical skills.\n\n\n\n\n\n\n\n\nNoteProfessional Reference\n\n\n\nA supervisor from my current security role — available to speak to reliability, professionalism, and workplace conduct."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Background & Goals\nAnalytical mind, curious by nature\nI’m a Dublin-based graduate with a BA in Economics & Politics (Joint Honours) from University College Dublin, and I’m currently completing an MSc in Business Analytics at Dublin City University. My academic journey started at Trinity College Dublin, where I studied Business, Economic & Social Studies before transferring to UCD.\nMy interests sit at the intersection of data, technology, and security. I’m drawn to problems that require both analytical rigour and creative thinking — whether that’s building a data pipeline, researching a cybersecurity incident, or communicating findings clearly to a non-technical audience.\nAlongside my studies, I work part-time as a security officer, which has given me a strong foundation in situational awareness, protocols, and calm decision-making under pressure.\nEducation\nWork Experience\nCore Competencies\nGoals\nComplete my MSc in Business Analytics at DCU and Pursue a career in data analytics — ideally a role that combines technical problem-solving with clear communication and strategic thinking where I get to use tools on real-world datasets and build machine learning models, and data pipelines."
+    "text": "Background & Goals\nAnalytical mind, curious by nature\nI’m a Dublin-based graduate with a BA in Economics & Politics (Joint Honours) from University College Dublin, and I’m currently completing an MSc in Business Analytics at Dublin City University. My academic journey started at Trinity College Dublin, where I studied Business, Economic & Social Studies before transferring to UCD.\nMy interests sit at the intersection of data, technology, and security. I’m drawn to problems that require both analytical rigour and creative thinking — whether that’s building a data pipeline, researching a cybersecurity incident, or communicating findings clearly to a non-technical audience.\nAlongside my studies, I work part-time as a security officer, which has given me a strong foundation in situational awareness, protocols, and calm decision-making under pressure.\nEducation\nWork Experience\nCore Competencies\nGoals\nComplete my MSc in Business Analytics at DCU and Pursue a career in data analytics - ideally a role that combines technical problem-solving with clear communication and strategic thinking where I get to use tools on real-world datasets and build machine learning models, and data pipelines."
   },
   {
     "objectID": "about.html#footnotes",
@@ -116,7 +116,7 @@
     "href": "index.html#welcome",
     "title": "Gleb Kurilenko",
     "section": "Welcome",
-    "text": "Welcome\nI’m a graduate of UCD’s Economics & Politics programme, currently pursuing an MSc in Business Analytics at Dublin City University. I’m passionate about data analytics, cybersecurity, and using technology to solve real-world problems.\nMultilingual (Russian · English · French), technically proficient, and always looking to grow — I’m building towards a career at the intersection of data and digital security.\n\n\nSkills at a glance\n\n\n4+ Years of study\n\n\n3 Languages\n\n\n3 Universities\n\n\n4+ Projects\n\n\nPython SQL Excel Data Analytics Research Multilingual Team Collaboration\n\n\n\n\n\n\n\nTipOpen to opportunities\n\n\n\nI’m currently looking for graduate roles in data analytics and/or business intelligence. Feel free to get in touch!"
+    "text": "Welcome\nI’m a graduate of UCD’s Economics & Politics programme, currently pursuing an MSc in Business Analytics at Dublin City University. I’m passionate about data analytics, cybersecurity, and using technology to solve real-world problems.\nMultilingual (Russian · English · French), technically proficient, and always looking to grow - I’m building towards a career at the intersection of data and digital security.\n\n\nSkills at a glance\n\n\n4+ Years of study\n\n\n3 Languages\n\n\n3 Universities\n\n\n4+ Projects\n\n\nPython SQL Excel Data Analytics Research Multilingual Team Collaboration\n\n\n\n\n\n\n\nTipOpen to opportunities\n\n\n\nI’m currently looking for graduate roles in data analytics and/or business intelligence. Feel free to get in touch!"
   },
   {
     "objectID": "projects/list/healthcare-nlp.html",
