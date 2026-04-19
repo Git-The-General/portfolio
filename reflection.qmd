@@ -8,7 +8,7 @@ Looking Back & Looking Forward
 
 ## What I learned in this module
 
-This module asked me to build something I had never built before — a fully functioning personal portfolio website using version-controlled code, deployed live on the internet. That might sound straightforward, but the process involved far more problem-solving, patience, and iteration than I expected.
+This module asked me to build something I had never built before - a fully functioning personal portfolio website using version-controlled code, deployed live on the internet. That might sound straightforward, but the process involved far more problem-solving, patience, and iteration than I expected.
 
 ---
 
@@ -27,7 +27,7 @@ I unfortunately have not utilised Git to full potential building a website witho
 
 ## Quarto and Web Publishing
 
-I came into this module having built basic HTML pages but never having used a static site generator. Quarto's approach — write in Markdown, configure in YAML, and let the tool handle rendering — took some getting used to.
+I came into this module having built basic HTML pages but never having used a static site generator. Quarto's approach - write in Markdown, configure in YAML, and let the tool handle rendering - took some getting used to.
 
 The main challenge was learning that Quarto has opinions about structure. Using the built-in navbar, listing pages, and About templates felt constraining at first, but I got used to these conventions, as they exist for good reasons: they produce accessible, consistent, and well-structured output with much less manual work.
 
@@ -42,7 +42,7 @@ The `listing` feature for projects was far more powerful than I expected. Defini
 
 I initially underestimated how much design decisions matter. A technically correct page that is hard to read or navigate reflects poorly on the work it contains.
 
-Choosing a consistent colour palette (forest green and gold), setting up Sass variables so those colours were applied consistently, and making sure text had sufficient contrast all took longer than I expected — but the result felt more professional and more *mine* than a default template would have.
+Choosing a consistent colour palette (forest green and gold), setting up Sass variables so those colours were applied consistently, and making sure text had sufficient contrast all took longer than I expected - but the result felt more professional and more *mine* than a default template would have.
 
 ---
 
