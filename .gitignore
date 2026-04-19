@@ -1,0 +1,28 @@
+# Quarto generated files
+/.quarto/
+/docs/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+*.egg-info/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sensitive data
+*.key
+*.pem
+secrets.*
+
+**/*.quarto_ipynb

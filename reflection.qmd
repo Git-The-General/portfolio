@@ -1,0 +1,77 @@
+---
+title: "Reflection"
+---
+
+::: {.section-label}
+Looking Back & Looking Forward
+:::
+
+## What I learned in this module
+
+This module asked me to build something I had never built before — a fully functioning personal portfolio website using version-controlled code, deployed live on the internet. That might sound straightforward, but the process involved far more problem-solving, patience, and iteration than I expected.
+
+---
+
+## Git and Version Control
+
+::: {.callout-note}
+## Before this module
+I had used Git before in order to download files/mods but have never used it in a structured way.
+:::
+
+Learning Git properly was one of the most practically useful things I took from this module. The core insight was: **every change is tracked, every mistake is recoverable**. 
+
+I unfortunately have not utilised Git to full potential building a website without uploading every version to Git, which was a reason of a lot of headache as all the different version os documents were cluttering the desktop.
+
+---
+
+## Quarto and Web Publishing
+
+I came into this module having built basic HTML pages but never having used a static site generator. Quarto's approach — write in Markdown, configure in YAML, and let the tool handle rendering — took some getting used to.
+
+The main challenge was learning that Quarto has opinions about structure. Using the built-in navbar, listing pages, and About templates felt constraining at first, but I got used to these conventions, as they exist for good reasons: they produce accessible, consistent, and well-structured output with much less manual work.
+
+::: {.callout-tip}
+## Useful Quarto discovery
+The `listing` feature for projects was far more powerful than I expected. Defining metadata in YAML frontmatter and letting Quarto generate a filterable, searchable grid automatically saved hours compared to maintaining a hand-coded HTML grid.
+:::
+
+---
+
+## Design and Accessibility
+
+I initially underestimated how much design decisions matter. A technically correct page that is hard to read or navigate reflects poorly on the work it contains.
+
+Choosing a consistent colour palette (forest green and gold), setting up Sass variables so those colours were applied consistently, and making sure text had sufficient contrast all took longer than I expected — but the result felt more professional and more *mine* than a default template would have.
+
+---
+
+## Mermaid diagram — my learning journey
+
+```{mermaid}
+flowchart LR
+    A[Plain HTML\nfiles] -->|Quarto| B[Structured\nsite]
+    B -->|Git| C[Version\ncontrolled]
+    C -->|GitHub Pages| D[Live on\nthe web]
+    D -->|Iteration| B
+
+    style A fill:#e3e7de,stroke:#9eb89e,color:#1b2b1e
+    style B fill:#c8d4c0,stroke:#4d5e4f,color:#1b2b1e
+    style C fill:#4d5e4f,stroke:#27402b,color:#ffffff
+    style D fill:#1b2b1e,stroke:#1b2b1e,color:#c8972a
+```
+
+---
+
+## Where I go from here
+
+This module gave me a foundation I did not have before. I now understand how modern technical publishing works, how to manage code with version control, and how to deploy a live site from a local project. It reinforced that learning technical tools is mostly about tolerating confusion long enough and only then you get to build something real.
+
+My next steps:
+
+1. **Expand the projects section** as I complete more work in my MSc
+2. **Add interactive visualisations** using Plotly as I develop stronger Python skills
+3. **Contribute to open-source** projects on GitHub to build a public coding history
+4. **Apply these skills professionally** in a graduate data analyst role
+
+

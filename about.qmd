@@ -1,0 +1,90 @@
+---
+title: "About Me"
+---
+
+::: {.section-label}
+Background & Goals
+:::
+
+Analytical mind, *curious by nature*
+
+I'm a Dublin-based graduate with a **BA in Economics & Politics (Joint Honours)** from University College Dublin, and I'm currently completing an **MSc in Business Analytics** at Dublin City University. My academic journey started at Trinity College Dublin, where I studied Business, Economic & Social Studies before transferring to UCD.
+
+My interests sit at the intersection of data, technology, and security. I'm drawn to problems that require both analytical rigour and creative thinking — whether that's building a data pipeline, researching a cybersecurity incident, or communicating findings clearly to a non-technical audience.
+
+Alongside my studies, I work part-time as a security officer, which has given me a strong foundation in situational awareness, protocols, and calm decision-making under pressure.
+
+---
+
+Education
+
+::: {.timeline}
+
+::: {.timeline-item}
+[2024 – Present]{.timeline-year}
+Dublin City University
+MSc in Business Analytics — developing skills in machine learning, data visualisation, Python, SQL, and business intelligence.
+:::
+
+::: {.timeline-item}
+[2021 – 2024]{.timeline-year}
+University College Dublin
+BA Economics & Politics (Joint Honours) — graduated with strong foundations in quantitative analysis, economic theory, and political science.
+:::
+
+::: {.timeline-item}
+[2019 – 2021]{.timeline-year}
+Trinity College Dublin
+B.E.S.S (Business, Economic & Social Studies) — 1st and 2nd year before transferring to UCD.
+:::
+
+::: {.timeline-item}
+[2014 – 2019]{.timeline-year}
+Synge Street CBS
+Leaving Certificate — Higher Level in all subjects: Physics · Biology · Mathematics · French · Accounting · Russian · English
+:::
+
+:::
+
+---
+
+Work Experience
+
+::: {.timeline}
+
+::: {.timeline-item}
+[2022 – Present]{.timeline-year}
+Security Officer *(Part-Time)*
+Certified through ICSE with a current PSA permit licence and Safepass health & safety training. Responsible for access control, incident reporting, and maintaining safety across multiple Dublin sites.
+:::
+
+:::
+
+---
+
+Core Competencies
+
+| Category | Skills |
+|---|---|
+| Programming | Python, SQL |
+| Data Tools | Microsoft Excel, data visualisation, statistical modelling |
+| Security | PSA permit, ICSE certified, Safepass trained |
+| Languages | Russian (native), English (fluent), French (intermediate) |
+| Soft Skills | Teamwork, research & writing, composure under pressure |
+
+: {.striped .hover}
+
+---
+
+Goals
+
+Complete my MSc in Business Analytics at DCU and Pursue a career in **data analytics** — ideally a role that combines technical problem-solving with clear communication and strategic thinking where I get to use tools on real-world datasets and build machine learning models, and data pipelines.
+
+
+---
+
+> *"The sin is not in being outmatched, but in failure to recognise it."*
+>
+> — Ancestor [^1]
+
+[^1]: This quote is from the game *Darkest Dungeon* and has stuck with me as a reminder to stay self-aware and keep learning.

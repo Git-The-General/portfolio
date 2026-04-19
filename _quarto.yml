@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gleb Kurilenko"
+  favicon: images/favicon.png
+
+  navbar:
+    logo: images/favicon.png
+    logo-alt: "GK Logo"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Reflection"
+        href: reflection.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - text: "CV"
+        href: cv/CV.pdf
+        target: _blank
+      - icon: bi-github
+        href: https://github.com/Git-The-General
+        target: _blank
+        aria-label: GitHub
+
+  page-footer:
+    left: "© 2025 Gleb Kurilenko · Dublin, Ireland"
+    right:
+      - text: "Built with Quarto"
+        href: https://quarto.org
+      - text: "Source on GitHub"
+        href: https://github.com/Git-The-General/portfolio
+        target: _blank
+
+  page-navigation: true
+
+format:
+  html:
+    theme:
+      - flatly
+      - styles.scss
+    anchor-sections: false
+    smooth-scroll: true
+    code-fold: true
+    highlight-style: github
+    toc: true
+    toc-depth: 2

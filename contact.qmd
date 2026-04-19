@@ -1,0 +1,55 @@
+---
+title: "Contact & References"
+toc: false
+---
+
+::: {.section-label}
+Get In Touch
+:::
+
+## Contact
+
+I'm always happy to hear from potential employers, collaborators, or anyone who wants to talk about data, cybersecurity, or technology. The best way to reach me is by email.
+
+::: {.contact-card-custom}
+
+## Let's Connect
+
+Whether it's a work opportunity, a collaboration, or just a conversation — I'd love to hear from you.
+
+[✉ gleb.kurilenko6@gmail.com](mailto:gleb.kurilenko6@gmail.com)
+[in LinkedIn](https://www.linkedin.com/in/gleb-kurilenko-916222383/){target="_blank"}
+[📄 Download CV](../cv/CV.pdf){target="_blank"}
+
+:::
+
+---
+
+## Location
+
+Based in **Dublin, Ireland** — open to hybrid and in-person roles across the Greater Dublin Area, as well as remote positions.
+
+| | |
+|---|---|
+| 📍 Location | Dublin 6W, Ireland |
+| 📞 Phone | +353 87 781 5126 |
+| ✉ Email | gleb.kurilenko6@gmail.com |
+| 🔗 LinkedIn | [gleb-kurilenko-916222383](https://www.linkedin.com/in/gleb-kurilenko-916222383/) |
+
+: {.striped}
+
+---
+
+## References
+
+References are available upon request. Please contact me directly at [gleb.kurilenko6@gmail.com](mailto:gleb.kurilenko6@gmail.com) and I will provide contact details for:
+
+::: {.callout-note}
+## Academic Reference
+A lecturer or module coordinator from Dublin City University or University College Dublin — available to speak to academic performance and analytical skills.
+:::
+
+::: {.callout-note}
+## Professional Reference
+A supervisor from my current security role — available to speak to reliability, professionalism, and workplace conduct.
+:::

@@ -1,0 +1,56 @@
+---
+title: "Projects"
+toc: false
+---
+
+::: {.section-label}
+Academic & Personal Work
+:::
+
+A collection of projects from my studies at Dublin City University and University College Dublin, spanning data analytics, cybersecurity research, and policy analysis.
+
+```{=html}
+<div class="projects-grid">
+
+  <div class="project-card">
+    <div class="project-thumb theme-data">📊<span class="thumb-label">Data Analytics</span></div>
+    <div class="project-body">
+      <div class="project-tags"><span class="tag tag-data">Data Analytics</span><span class="tag tag-general">Python</span></div>
+      <h3>Business Analytics Pipeline</h3>
+      <p>Using a real world dataset, me and my team were able to build an end-to-end business analytics pipeline that tied the data and the model and allowed for operational decisions, named KPI and responsible deployment plan.</p>
+      <div class="project-meta"><span>Analytics Tools and Programming · 2025</span></div>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-thumb theme-cyber">🔐<span class="thumb-label">Cybersecurity</span></div>
+    <div class="project-body">
+      <div class="project-tags"><span class="tag tag-cyber">Cybersecurity</span><span class="tag tag-general">Analysis</span></div>
+      <h3>SolarWinds Research into Attacks</h3>
+      <p>Heavily researched and delivered a presentation about the SolarWinds supply chain attacks, explaining how they happened and why it is important for organisations worldwide.</p>
+      <div class="project-meta"><span>The Global Politics of Cyber Security · 2025</span></div>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-thumb theme-placeholder">📝<span class="thumb-label">Policy</span></div>
+    <div class="project-body">
+      <div class="project-tags"><span class="tag tag-general">Politics</span><span class="tag tag-general">Essay</span></div>
+      <h3>Unrecycled Waste in West Africa & the UN's SDGs</h3>
+      <p>Academic analysis of waste being dumped in West Africa and what we can do about it following the United Nations Sustainable Development Goals.</p>
+      <div class="project-meta"><span>Sustainable Development through the Lens of Gender · 2024</span></div>
+    </div>
+  </div>
+
+<a class="project-card" href="list/healthcare-nlp.html">
+    <div class="project-thumb theme-data">🏥<span class="thumb-label">Data Analytics</span></div>
+    <div class="project-body">
+      <div class="project-tags"><span class="tag tag-data">Data Analytics</span><span class="tag tag-general">Python</span><span class="tag tag-general">NLP</span></div>
+      <h3>Healthcare Risk Flagging</h3>
+      <p>Obtained a publicly available dataset of patient feedback and compared two NLP models — BERT and an LLM — to see which is more accurate at predicting safety risks within the healthcare industry.</p>
+      <div class="project-meta"><span>Advanced Analytics Techniques · 2026</span></div>
+    </div>
+  </a>
+
+</div>
+```
