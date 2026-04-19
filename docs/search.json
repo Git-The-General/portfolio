@@ -35,11 +35,11 @@
     "text": "Design and Accessibility\nI initially underestimated how much design decisions matter. A technically correct page that is hard to read or navigate reflects poorly on the work it contains.\nChoosing a consistent colour palette (forest green and gold), setting up Sass variables so those colours were applied consistently, and making sure text had sufficient contrast all took longer than I expected - but the result felt more professional and more mine than a default template would have."
   },
   {
-    "objectID": "reflection.html#mermaid-diagram-my-learning-journey",
-    "href": "reflection.html#mermaid-diagram-my-learning-journey",
+    "objectID": "reflection.html#mermaid-diagram---my-learning-journey",
+    "href": "reflection.html#mermaid-diagram---my-learning-journey",
     "title": "Reflection",
-    "section": "Mermaid diagram — my learning journey",
-    "text": "Mermaid diagram — my learning journey\n\n\n\n\n\nflowchart LR\n    A[Plain HTML\\nfiles] --&gt;|Quarto| B[Structured\\nsite]\n    B --&gt;|Git| C[Version\\ncontrolled]\n    C --&gt;|GitHub Pages| D[Live on\\nthe web]\n    D --&gt;|Iteration| B\n\n    style A fill:#e3e7de,stroke:#9eb89e,color:#1b2b1e\n    style B fill:#c8d4c0,stroke:#4d5e4f,color:#1b2b1e\n    style C fill:#4d5e4f,stroke:#27402b,color:#ffffff\n    style D fill:#1b2b1e,stroke:#1b2b1e,color:#c8972a"
+    "section": "Mermaid diagram - my learning journey",
+    "text": "Mermaid diagram - my learning journey\n\n\n\n\n\nflowchart LR\n    A[Plain HTML\\nfiles] --&gt;|Quarto| B[Structured\\nsite]\n    B --&gt;|Git| C[Version\\ncontrolled]\n    C --&gt;|GitHub Pages| D[Live on\\nthe web]\n    D --&gt;|Iteration| B\n\n    style A fill:#e3e7de,stroke:#9eb89e,color:#1b2b1e\n    style B fill:#c8d4c0,stroke:#4d5e4f,color:#1b2b1e\n    style C fill:#4d5e4f,stroke:#27402b,color:#ffffff\n    style D fill:#1b2b1e,stroke:#1b2b1e,color:#c8972a"
   },
   {
     "objectID": "reflection.html#where-i-go-from-here",
