@@ -23,19 +23,19 @@ Education
 ::: {.timeline-item}
 [2024 – Present]{.timeline-year}
 Dublin City University
-MSc in Business Analytics — developing skills in machine learning, data visualisation, Python, SQL, and business intelligence.
+MSc in Business Analytics - developing skills in machine learning, data visualisation, Python, SQL, and business intelligence.
 :::
 
 ::: {.timeline-item}
 [2021 – 2024]{.timeline-year}
 University College Dublin
-BA Economics & Politics (Joint Honours) — graduated with strong foundations in quantitative analysis, economic theory, and political science.
+BA Economics & Politics (Joint Honours) - graduated with strong foundations in quantitative analysis, economic theory, and political science.
 :::
 
 ::: {.timeline-item}
 [2019 – 2021]{.timeline-year}
 Trinity College Dublin
-B.E.S.S (Business, Economic & Social Studies) — 1st and 2nd year before transferring to UCD.
+B.E.S.S (Business, Economic & Social Studies) - 1st and 2nd year before transferring to UCD.
 :::
 
 ::: {.timeline-item}
@@ -78,7 +78,7 @@ Core Competencies
 
 Goals
 
-Complete my MSc in Business Analytics at DCU and Pursue a career in **data analytics** — ideally a role that combines technical problem-solving with clear communication and strategic thinking where I get to use tools on real-world datasets and build machine learning models, and data pipelines.
+Complete my MSc in Business Analytics at DCU and Pursue a career in **data analytics** - ideally a role that combines technical problem-solving with clear communication and strategic thinking where I get to use tools on real-world datasets and build machine learning models, and data pipelines.
 
 
 ---
