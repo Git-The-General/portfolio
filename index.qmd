@@ -16,11 +16,11 @@ about:
       target: _blank
     - icon: github
       text: GitHub
-      href: https://github.com/
+      href: https://github.com/Git-The-General
       target: _blank
     - icon: file-earmark-pdf
       text: Download CV
-      href: cv/CV.pdf
+      href: https://git-the-general.github.io/portfolio/cv/CV.pdf
       target: _blank
 toc: false
 ---
