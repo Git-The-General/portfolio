@@ -21,7 +21,7 @@ I had used Git before in order to download files/mods but have never used it in 
 
 Learning Git properly was one of the most practically useful things I took from this module. The core insight was: **every change is tracked, every mistake is recoverable**. 
 
-I unfortunately have not utilised Git to full potential building a website without uploading every version to Git, which was a reason of a lot of headache as all the different version os documents were cluttering the desktop.
+I unfortunately have not utilised Git to full potential, building a website without uploading every version to Git, which was a reason of a lot of headache as all the different version of documents were cluttering the desktop.
 
 ---
 
